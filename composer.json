@@ -1,0 +1,11 @@
+{
+    "require": {
+        "silex/silex": "~2.0",
+        "monolog/monolog": "^1.23",
+        "hassankhan/config": "^0.10.0",
+        "symfony/yaml": "^3.3",
+        "rmccue/requests": "^1.7",
+        "microsoft/microsoft-graph": "^1.0",
+        "twig/twig": "^2.4"
+    }
+}

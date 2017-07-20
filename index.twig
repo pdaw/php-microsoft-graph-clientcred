@@ -1,0 +1,10 @@
+{% for calendar in calendars %}
+    Calendar name: {{ calendar.name }} <br/>
+
+    {% for event in calendar.events %}
+        Event subject: {{ event.subject }} <br/>
+        Event start date: {{ event.start }} <br/>
+        Event end date: {{ event.end }} <br/><br/>
+    {% endfor %}
+    <br/><br/>
+{% endfor %}
