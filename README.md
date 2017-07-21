@@ -40,9 +40,3 @@ tenant_id: tenant_id
 `php -S 127.0.0.1:8000`
 
 * visit localhost:8000 in your browser.
-
-References
-------------
-
-* [Microsoft Graph Library for PHP](https://github.com/microsoftgraph/msgraph-sdk-php)
-* [Client Credentials Grant](https://tools.ietf.org/html/rfc6749#section-4.4) 
