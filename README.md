@@ -27,7 +27,7 @@ Application was tested with PHP 7.1.
 * fill out a `config-sample.yml` file with your data
 
 ```
-user_principal_name: my_usrname@company.com
+user_principal_name: my_username@company.com # app will fetch events for this guy
 client_id: client_id
 client_secret: client_secret
 tenant_id: tenant_id
